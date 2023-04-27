@@ -1,7 +1,7 @@
 ## Access this FREE EBOOK IN PDF 
-
-##COMPARISON OF AUTOMATION TOOL 
-
+```
+**COMPARISON OF AUTOMATION TOOL** 
+```
 # Kubernetes itself, operators were implemented using the Go language
 # The operator SDK allows for Go and Ansible-based operators to implement all five levels of the operator maturity model, as illustrated in Figure
 
